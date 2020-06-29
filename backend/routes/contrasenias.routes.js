@@ -10,15 +10,10 @@ router.get("/", async (req, res) => {
 });
 
 router.get("/:id", async (req, res) => {
-  const password = await Password.find();
-
-  for (let i = 0; i < password.length; i++)
-    if (password[i].password === req.params.id) {
-      res.json({ status: true, permisos: password[i].permisos });
-      return;
-    }
-
-  res.json({ status: false });
+  Password.findOne({ password: req.params.id }).then((sesion) => {
+    if (sesion) res.json({ status: true, permisos: sesion.permisos });
+    else res.json({ status: false });
+  });
 });
 
 router.post("/", async (req, res) => {
@@ -30,9 +25,7 @@ router.post("/", async (req, res) => {
 });
 
 router.put("/:id", async (req, res) => {
-  const { password, permisos } = req.body;
-  const pre = { password, permisos };
-  await Password.findByIdAndUpdate(req.params.id, pre);
+  await Password.findByIdAndUpdate(req.params.id, req.body);
   res.json({ estado: true });
 });
 

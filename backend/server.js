@@ -8,6 +8,7 @@ let dbConfig = require("./database/db");
 // Express Route
 const preguntasRoute = require("./routes/preguntas.routes");
 const contraseniaRoute = require("./routes/contrasenias.routes");
+const usuarioRoute = require("./routes/usuario.routes");
 
 // Connecting mongoDB Database
 mongoose.Promise = global.Promise;
@@ -35,6 +36,7 @@ app.use(
 app.use(cors());
 app.use("/preguntas", preguntasRoute);
 app.use("/contra", contraseniaRoute);
+app.use("/usuario", usuarioRoute);
 
 // PORT
 const port = process.env.PORT || 4000;
