@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Swal from "sweetalert2";
 import axios from "axios";
 
-function Preguntas() {
+const Preguntas = () => {
   // Declaracion de variables y estados
   const [idGlobal, setIdGlobal] = useState("");
   const [titulo, setTitulo] = useState("");
@@ -104,12 +104,11 @@ function Preguntas() {
     setFactor(pregunta.factor);
   };
 
-  const wipe = (text) => {
-    return text
+  const wipe = (text) =>
+    text
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "")
       .toLowerCase();
-  };
 
   const buscarGeneral = (busqueda) => {
     reiniciar();
@@ -271,35 +270,33 @@ function Preguntas() {
                 </tr>
               </thead>
               <tbody>
-                {preguntas.map((pregunta) => {
-                  return (
-                    <tr key={pregunta._id}>
-                      <td>{pregunta.id}</td>
-                      <td>{pregunta.titulo}</td>
-                      <td>{pregunta.opcCorrecta}</td>
-                      <td>{pregunta.opc1}</td>
-                      <td>{pregunta.opc2}</td>
-                      <td>{pregunta.opc3}</td>
-                      <td>
-                        {pregunta.factor === "0" ? "General" : pregunta.factor}
-                      </td>
-                      <td>
-                        <button
-                          className="btn btn-danger"
-                          onClick={() => eliminar(pregunta._id)}
-                        >
-                          <i className="material-icons">delete_forever</i>
-                        </button>
-                        <button
-                          className="btn btn-warning"
-                          onClick={() => editar(pregunta)}
-                        >
-                          <i className="material-icons">edit</i>
-                        </button>
-                      </td>
-                    </tr>
-                  );
-                })}
+                {preguntas.map((pregunta) => (
+                  <tr key={pregunta._id}>
+                    <td>{pregunta.id}</td>
+                    <td>{pregunta.titulo}</td>
+                    <td>{pregunta.opcCorrecta}</td>
+                    <td>{pregunta.opc1}</td>
+                    <td>{pregunta.opc2}</td>
+                    <td>{pregunta.opc3}</td>
+                    <td>
+                      {pregunta.factor === "0" ? "General" : pregunta.factor}
+                    </td>
+                    <td>
+                      <button
+                        className="btn btn-danger"
+                        onClick={() => eliminar(pregunta._id)}
+                      >
+                        <i className="material-icons">delete_forever</i>
+                      </button>
+                      <button
+                        className="btn btn-warning"
+                        onClick={() => editar(pregunta)}
+                      >
+                        <i className="material-icons">edit</i>
+                      </button>
+                    </td>
+                  </tr>
+                ))}
               </tbody>
             </table>
           </div>
@@ -315,6 +312,6 @@ function Preguntas() {
       </div>
     </div>
   );
-}
+};
 
 export default Preguntas;

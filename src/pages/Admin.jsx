@@ -2,6 +2,7 @@ import React from "react";
 import { useAuth } from "../context/Auth";
 import Swal from "sweetalert2";
 import Preguntas from "../components/Preguntas";
+import Usuarios from "../components/Usuarios";
 
 function Admin() {
   // Declaracion de variables y estados
@@ -79,7 +80,7 @@ function Admin() {
           role="tabpanel"
           aria-labelledby="profile-tab"
         >
-          Usuarios
+          <Usuarios />
         </div>
         <div
           className="tab-pane fade show active"
