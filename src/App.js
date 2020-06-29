@@ -1,26 +1,48 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import { AuthContext } from "./context/Auth";
+import PrivateRoute from "./PrivateRoute";
+import Login from "./pages/Login";
+import Admin from "./pages/Admin";
 
-function App() {
+const App = () => {
+  // Declaracion de estados y variables
+  const existingTokens = JSON.parse(localStorage.getItem("tokens"));
+
+  const [authTokens, setAuthtokens] = useState(existingTokens);
+
+  // Declaracion de funciones
+  const setTokens = (data) => {
+    localStorage.setItem("tokens", JSON.stringify(data));
+    setAuthtokens(data);
+  };
+
+  // Renderizado
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <div className="container">
+          <a className="navbar-brand">
+            Aplicación para la acreditación de alta calidad
+          </a>
+        </div>
+      </nav>
+
+      <AuthContext.Provider value={{ authTokens, setAuthtokens: setTokens }}>
+        <Router>
+          <Route exact path="/" component={Login} />
+          <PrivateRoute path="/administrador" component={Admin} />
+        </Router>
+      </AuthContext.Provider>
+
+      <footer className="page-footer font-small blue">
+        <div className="footer-copyright text-center py-3">
+          © 2020 Copyright:
+          <a href="https://usc.edu.co"> Universidad Santiago de Cali</a>
+        </div>
+      </footer>
     </div>
   );
-}
+};
 
 export default App;

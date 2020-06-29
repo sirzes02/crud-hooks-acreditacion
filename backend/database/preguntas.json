@@ -1,0 +1,1280 @@
+﻿[
+  {
+    "id": "1",
+    "factor": "0",
+    "titulo": "¿Por cuántos años el Ministerio de Educación Nacional otorga la acreditación institucional?",
+    "opcCorrecta": "4",
+    "opc1": " 6",
+    "opc2": " 8 o 10",
+    "opc3": "4 o 6"
+  },
+  {
+    "id": "2",
+    "factor": "0",
+    "titulo": "¿Cómo se denomina la agencia encargada de los procesos de Acreditación en Colombia?",
+    "opcCorrecta": "Consejo Nacional de Acreditación (CNA)",
+    "opc1": "Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la Educación Superior (CONACES)",
+    "opc2": "Consejo Profesional de Calidad (CPC)",
+    "opc3": "Comité de Aseguramiento de la Calidad de Colombia (CACC)"
+  },
+  {
+    "id": "3",
+    "factor": "0",
+    "titulo": "El proceso de autoevaluación institucional ratifica la coherencia entre:",
+    "opcCorrecta": "Misión",
+    "opc1": " Visión y Principios declarados en el Proyecto Educativo Institucional",
+    "opc2": "Reglamento Estudiantil",
+    "opc3": "Reglamento Profesoral"
+  },
+  {
+    "id": "4",
+    "factor": "0",
+    "titulo": "¿Cuántos son los factores definidos en los lineamientos de acreditación institucional del CNA?",
+    "opcCorrecta": "12",
+    "opc1": "10",
+    "opc2": "9",
+    "opc3": "15"
+  },
+  {
+    "id": "5",
+    "factor": "0",
+    "titulo": "¿Cuántas Facultades tiene la USC?",
+    "opcCorrecta": "7",
+    "opc1": "5",
+    "opc2": "6",
+    "opc3": "9"
+  },
+  {
+    "id": "6",
+    "factor": "0",
+    "titulo": "¿La acreditación institucional de la USC es un proceso?",
+    "opcCorrecta": "Voluntario",
+    "opc1": "Obligatorio",
+    "opc2": "Impuesto",
+    "opc3": "Requerido para seguir funcionando"
+  },
+  {
+    "id": "7",
+    "factor": "0",
+    "titulo": "Es la Fase del proceso de acreditación institucional que se centró en el quehacer",
+    "opcCorrecta": " recopilación y valoración de la documentación que certificó y sustentó la información institucional para cumplir con las Condiciones Iniciales",
+    "opc1": "Fase 1. Condiciones de calidad",
+    "opc2": "Fase 0. Alistamiento",
+    "opc3": "Fase 2. Autoevaluación"
+  },
+  {
+    "id": "8",
+    "factor": "0",
+    "titulo": "Es la Fase del proceso de acreditación institucional que contempló la aplicación de instrumentos de evaluación y la consolidación del informe de autoevaluación con el análisis y valoración de los factores y características",
+    "opcCorrecta": "Fase 2. Autoevaluación",
+    "opc1": "Fase 0. Alistamiento",
+    "opc2": "Fase 3. Evaluación externa",
+    "opc3": "Fase 4. Evaluación final del MEN"
+  },
+  {
+    "id": "9",
+    "factor": "0",
+    "titulo": "¿Cuáles son las Fases definidas por la Universidad Santiago de Cali para su proceso de acreditación institucional?",
+    "opcCorrecta": "0. Alistamiento; 1. Condiciones de calidad; 2. Autoevaluación; 3. Evaluación externa; 4. Evaluación final del MEN; 5. Reconocimiento del MEN",
+    "opc1": "1. Condiciones Institucionales; 2. Autoevaluación; 3. Evaluación final del MEN; 4. Reconocimiento del MEN",
+    "opc2": "0. Alistamiento; 1. Autoevaluación; 3. Evaluación externa; 4. Reconocimiento del MEN",
+    "opc3": "0. Alistamiento; 1. Condiciones de calidad; 2. Evaluación externa; 3. Evaluación final del MEN"
+  },
+  {
+    "id": "10",
+    "factor": "0",
+    "titulo": "¿Quiénes participaron en el proceso de autoevaluación?",
+    "opcCorrecta": "Estudiantes",
+    "opc1": " Profesores",
+    "opc2": " Egresados",
+    "opc3": " Administrativos"
+  },
+  {
+    "id": "11",
+    "factor": "0",
+    "titulo": "Es la Fase del proceso de acreditación institucional donde el MEN a través del CNA verifica las condiciones internas de operación de la Universidad y designa Pares Académicos para realizar visita a la Institución",
+    "opcCorrecta": "Fase 3. Evaluación externa",
+    "opc1": "Fase 2. Autoevaluación",
+    "opc2": "Fase 4. Evaluación final del MEN",
+    "opc3": "Fase 5. Reconocimiento del MEN"
+  },
+  {
+    "id": "12",
+    "factor": "0",
+    "titulo": "Es la Fase del proceso de acreditación institucional donde el Estado da testimonio sobre la pertinencia y la calidad de un programa o institución con base en un proceso previo de evaluación en el cual intervienen la institución",
+    "opcCorrecta": " las comunidades académicas y el CNA",
+    "opc1": "Fase 5. Reconocimiento del MEN",
+    "opc2": "Fase 4. Evaluación final del MEN",
+    "opc3": "Fase 3. Evaluación externa"
+  },
+  {
+    "id": "13",
+    "factor": "0",
+    "titulo": "¿Cuál es la línea 1 del Plan Estratégico de Desarrollo Institucional 2014-2024?",
+    "opcCorrecta": "Academia con Calidad y Pertinencia",
+    "opc1": "Visibilidad",
+    "opc2": " pertinencia e impacto institucional",
+    "opc3": "Investigación e Innovación para la excelencia"
+  },
+  {
+    "id": "14",
+    "factor": "0",
+    "titulo": "¿Cuál es la línea 2 del Plan Estratégico de Desarrollo Institucional 2014-2024?",
+    "opcCorrecta": "Investigación e Innovación para la excelencia",
+    "opc1": "Visibilidad",
+    "opc2": " pertinencia e impacto institucional",
+    "opc3": "Academia con Calidad y Pertinencia"
+  },
+  {
+    "id": "15",
+    "factor": "0",
+    "titulo": "¿Cuál es la línea 3 del Plan Estratégico de Desarrollo Institucional 2014-2024?",
+    "opcCorrecta": "Visibilidad",
+    "opc1": " pertinencia e impacto institucional",
+    "opc2": "Academia con Calidad y Pertinencia",
+    "opc3": "Investigación e Innovación para la excelencia"
+  },
+  {
+    "id": "16",
+    "factor": "0",
+    "titulo": "¿Cuál es la línea 4 del Plan Estratégico de Desarrollo Institucional 2014-2024?",
+    "opcCorrecta": "Gestión para la excelencia institucional",
+    "opc1": "Visibilidad",
+    "opc2": " pertinencia e impacto institucional",
+    "opc3": "Investigación e Innovación para la excelencia"
+  },
+  {
+    "id": "17",
+    "factor": "1",
+    "titulo": "¿Cuáles son las funciones misionales de la USC?",
+    "opcCorrecta": "Docencia",
+    "opc1": " investigación y Extensión",
+    "opc2": "Internacionalización",
+    "opc3": " bienestar"
+  },
+  {
+    "id": "18",
+    "factor": "1",
+    "titulo": "¿Cuántas líneas tiene el Plan Estratégico de Desarrollo Institucional PEDI 2014-2024?",
+    "opcCorrecta": "4",
+    "opc1": "5",
+    "opc2": "8",
+    "opc3": "9"
+  },
+  {
+    "id": "19",
+    "factor": "1",
+    "titulo": "La USC manifiesta su compromiso con la Calidad y ello es expresado como un Principio en…",
+    "opcCorrecta": "Proyecto Educativo Institucional",
+    "opc1": "Estatuto General",
+    "opc2": "Reglamento de Bienestar",
+    "opc3": "Reglamento Profesoral"
+  },
+  {
+    "id": "20",
+    "factor": "1",
+    "titulo": "Uno de los principios institucionales de la USC",
+    "opcCorrecta": " definido en su Proyecto Educativo Institucional es…",
+    "opc1": "Inclusión",
+    "opc2": "Transparencia",
+    "opc3": "Integralidad"
+  },
+  {
+    "id": "21",
+    "factor": "1",
+    "titulo": "Es un espacio académico que permite generar identidad y sentido de pertenencia institucional alrededor del cogobierno y los preceptos de vocación y espíritu santiaguino orientados a su formación integral",
+    "opcCorrecta": "Cátedra Santiaguina",
+    "opc1": "Deporte Formativo",
+    "opc2": "Arte y Cultura",
+    "opc3": "Trabajo de Grado"
+  },
+  {
+    "id": "22",
+    "factor": "1",
+    "titulo": "Son elementos de la actual misión de la USC…",
+    "opcCorrecta": "Todos son elementos de la Misión de la USC",
+    "opc1": "Formar personas íntegras",
+    "opc2": "Contribuir a la equidad social y el desarrollo sostenible",
+    "opc3": "Perspectiva humanista"
+  },
+  {
+    "id": "23",
+    "factor": "1",
+    "titulo": "Son elementos de la actual visión de la USC…",
+    "opcCorrecta": "Ser una institución de excelencia en su vocación formativa",
+    "opc1": " que educa para una sociedad responsable",
+    "opc2": "En 2027 será reconocida nacional e internacionalmente por su excelente servicio a la sociedad",
+    "opc3": " los territorios y la sostenibilidad ambiental"
+  },
+  {
+    "id": "24",
+    "factor": "1",
+    "titulo": "¿Cuántos son los principios institucionales que define la USC?",
+    "opcCorrecta": "7",
+    "opc1": "2",
+    "opc2": "5",
+    "opc3": "9"
+  },
+  {
+    "id": "25",
+    "factor": "1",
+    "titulo": "Son algunos de los Principios de la USC... ",
+    "opcCorrecta": "Calidad",
+    "opc1": " Inclusión",
+    "opc2": " Equidad",
+    "opc3": "Transparencia"
+  },
+  {
+    "id": "26",
+    "factor": "1",
+    "titulo": "La misión institucional actual busca…",
+    "opcCorrecta": "Formar personas integras",
+    "opc1": "Formar profesionales",
+    "opc2": "Formar maestros",
+    "opc3": "Formar investigadores"
+  },
+  {
+    "id": "27",
+    "factor": "1",
+    "titulo": "En la visión institucional actual",
+    "opcCorrecta": " la USC se proyecta para ser excelente en…",
+    "opc1": "En su vocación formativa",
+    "opc2": "En extensión",
+    "opc3": "En investigación"
+  },
+  {
+    "id": "28",
+    "factor": "1",
+    "titulo": "La Misión y la Visión de la USC se actualizó por última vez en el año...",
+    "opcCorrecta": "2019",
+    "opc1": "2003",
+    "opc2": "2011",
+    "opc3": "2014"
+  },
+  {
+    "id": "29",
+    "factor": "1",
+    "titulo": "El principio por el cual la USC cumple sus funciones misionales y de apoyo",
+    "opcCorrecta": " con criterios de excelencia y acorde con los óptimos establecidos para el sector",
+    "opc1": " apoyada en una cultura de la autoevaluación y mejoramiento continuo",
+    "opc2": " es…",
+    "opc3": "Calidad "
+  },
+  {
+    "id": "30",
+    "factor": "1",
+    "titulo": "El principio por el cual la USC promueve y propicia que las personas accedan a oportunidades",
+    "opcCorrecta": " en condiciones justas e igualitarias",
+    "opc1": " acorde con sus condiciones y posibilidades",
+    "opc2": " es…",
+    "opc3": "Equidad"
+  },
+  {
+    "id": "31",
+    "factor": "1",
+    "titulo": "El principio por el cual la USC asume el cumplimiento de sus funciones misionales",
+    "opcCorrecta": " deberes y compromisos con criterios de prioridad del bien común",
+    "opc1": " protección al medio ambiente",
+    "opc2": " propiciando el mejoramiento de la calidad de vida dentro de la institución y en el entorno",
+    "opc3": " es..."
+  },
+  {
+    "id": "32",
+    "factor": "1",
+    "titulo": "El principio en el cual la Universidad se reconoce como una institución pluriétnica y multicultural",
+    "opcCorrecta": " que promueve la tolerancia y el respeto a los derechos humanos",
+    "opc1": " civiles",
+    "opc2": " políticos",
+    "opc3": " económicos"
+  },
+  {
+    "id": "33",
+    "factor": "1",
+    "titulo": "El principio por el cual la USC propicia la participación en el gobierno y orientación de los destinos de la misma",
+    "opcCorrecta": " a través de mecanismos directos e indirectos",
+    "opc1": " con igualdad de oportunidades",
+    "opc2": " respetando la diversidad y pluralidad",
+    "opc3": " la libertad de expresión"
+  },
+  {
+    "id": "34",
+    "factor": "1",
+    "titulo": "El principio por el cual la Universidad adelanta y promueve sus actividades enmarcadas en valores universalmente aceptados",
+    "opcCorrecta": " con apego a la legalidad y legitimidad",
+    "opc1": " con criterios de rectitud y transparencia en el manejo de los recursos y rendición publica de cuentas",
+    "opc2": " es...",
+    "opc3": "Ética"
+  },
+  {
+    "id": "35",
+    "factor": "1",
+    "titulo": "El principio por el cual la USC promueve el acceso a ella y sus servicios en igualdad de oportunidades",
+    "opcCorrecta": " sin discriminación por orientación sexual",
+    "opc1": " raza",
+    "opc2": " condición socio económica",
+    "opc3": " creencias religiosas"
+  },
+  {
+    "id": "36",
+    "factor": "1",
+    "titulo": "¿La instalación del Cogobierno institucional se dio en qué año?",
+    "opcCorrecta": "1968",
+    "opc1": "1958",
+    "opc2": "1978",
+    "opc3": "1988"
+  },
+  {
+    "id": "37",
+    "factor": "1",
+    "titulo": "La actualización de la misión y visión institucional en el año 2019 fue aprobada mediante Acuerdo de:",
+    "opcCorrecta": "Consejo Superior",
+    "opc1": "Consejo Académico",
+    "opc2": "Rectoría",
+    "opc3": "Comité Institucional de Autoevaluación y Calidad"
+  },
+  {
+    "id": "38",
+    "factor": "1",
+    "titulo": "Cuando en la misión institucional se menciona ",
+    "opcCorrecta": " con habilidades de pensamiento y capacidades prácticas",
+    "opc1": "Modelo pedagógico con enfoque por competencias",
+    "opc2": "Principio de la democracia",
+    "opc3": "Proyecto Educativo Institucional"
+  },
+  {
+    "id": "39",
+    "factor": "2",
+    "titulo": "¿Qué documento define",
+    "opcCorrecta": " entre otros",
+    "opc1": " los deberes y derechos de los estudiantes?",
+    "opc2": "Reglamento Estudiantil",
+    "opc3": "Política de inclusión"
+  },
+  {
+    "id": "40",
+    "factor": "2",
+    "titulo": "El Programa Institucional para la Permanencia Estudiantil de la USC se conoce como...",
+    "opcCorrecta": "PIPE",
+    "opc1": "PAES",
+    "opc2": "PISA",
+    "opc3": "RELEVO GENERACIONAL"
+  },
+  {
+    "id": "41",
+    "factor": "2",
+    "titulo": "¿Los Centros para el mejoramiento de las competencias de lectura",
+    "opcCorrecta": " escritura y lenguaje de la USC se conocen cómo?",
+    "opc1": "CEEL y CELOA",
+    "opc2": "SIAT",
+    "opc3": "PIPE"
+  },
+  {
+    "id": "42",
+    "factor": "2",
+    "titulo": "¿Cuántos miembros tiene el Consejo Superior por el estamento de estudiantes?",
+    "opcCorrecta": "8",
+    "opc1": "6",
+    "opc2": "7",
+    "opc3": "10"
+  },
+  {
+    "id": "43",
+    "factor": "2",
+    "titulo": "La matrícula de honor para los estudiantes de pregrado representa…",
+    "opcCorrecta": "El reconocimiento a su esfuerzo académico",
+    "opc1": " a partir de becas a los dos (2) mejores promedios de cada semestre",
+    "opc2": "Un descuento en la matrícula para estudiar un posgrado",
+    "opc3": "Un reconocimiento que se hace por una única vez a los mejores estudiantes"
+  },
+  {
+    "id": "44",
+    "factor": "2",
+    "titulo": "Son estímulos para enaltecer e impulsar los desempeños sobresalientes de estudiantes",
+    "opcCorrecta": " en aspectos culturales",
+    "opc1": " científicos y deportivos",
+    "opc2": "Matrícula de honor",
+    "opc3": " Becas a deportistas; monitores"
+  },
+  {
+    "id": "45",
+    "factor": "2",
+    "titulo": "El aplicativo que permite al aspirante realizar el paso a paso correspondiente a su proceso de inscripción y admisión a la Universidad se conoce como:",
+    "opcCorrecta": "Login USC",
+    "opc1": "SARA",
+    "opc2": "ARCA",
+    "opc3": "Direcciones de Programa"
+  },
+  {
+    "id": "46",
+    "factor": "2",
+    "titulo": "¿La Acreditación Institucional va a subir el costo de las matrículas?",
+    "opcCorrecta": "No",
+    "opc1": "Si ",
+    "opc2": "",
+    "opc3": ""
+  },
+  {
+    "id": "47",
+    "factor": "2",
+    "titulo": "El descuento en la matrícula que la Universidad Santiago de Cali aplica para los monitores (académicos",
+    "opcCorrecta": " de investigación",
+    "opc1": " de extensión",
+    "opc2": " de bienestar universitario",
+    "opc3": " de gestión académica) es del 20%"
+  },
+  {
+    "id": "48",
+    "factor": "2",
+    "titulo": "¿Para qué sirve el Sistema de Alertas Tempranas -SIAT?",
+    "opcCorrecta": "Caracterizar sociodemográfica a los aspirantes e identificar alertas tempranas que puedan conllevar a la deserción",
+    "opc1": "Caracterizar a los egresados y conocer sus tasas de cotización y salarios",
+    "opc2": "Caracterizar a los empleados y definir cursos de actualización",
+    "opc3": "Caracterizar a los profesores y ofrecer cursos desde Rutas de Formación "
+  },
+  {
+    "id": "49",
+    "factor": "2",
+    "titulo": "Más del 80% de los estudiantes de pregrado de la USC pertenecen a los estratos",
+    "opcCorrecta": "1",
+    "opc1": " 2 y 3",
+    "opc2": "1 y 2",
+    "opc3": "3 y 4"
+  },
+  {
+    "id": "50",
+    "factor": "3",
+    "titulo": "En los últimos años la USC ha incrementado la contratación de Profesores de tiempo completo con formación en…",
+    "opcCorrecta": "Maestría y Doctorado",
+    "opc1": "Especialización",
+    "opc2": "Profesionales",
+    "opc3": "Tecnólogos"
+  },
+  {
+    "id": "51",
+    "factor": "3",
+    "titulo": "¿Qué documento define",
+    "opcCorrecta": " entre otros",
+    "opc1": " los deberes y derechos de los profesores",
+    "opc2": " sus modalidades de vinculación y escalafón?",
+    "opc3": "Reglamento Profesoral"
+  },
+  {
+    "id": "52",
+    "factor": "3",
+    "titulo": "¿Cuántos miembros tiene el Consejo Superior por el estamento de profesores?",
+    "opcCorrecta": "8",
+    "opc1": "6",
+    "opc2": "7",
+    "opc3": "10"
+  },
+  {
+    "id": "53",
+    "factor": "3",
+    "titulo": "¿Cuál es el programa institucional desde el que se ofrecen cursos",
+    "opcCorrecta": " seminarios",
+    "opc1": " talleres",
+    "opc2": " diplomados",
+    "opc3": " etc. de manera gratuita para todos los profesores"
+  },
+  {
+    "id": "54",
+    "factor": "3",
+    "titulo": "¿Cuáles son las formas de vinculación de docentes según su dedicación en la Universidad Santiago de Cali?",
+    "opcCorrecta": "Dedicación Exclusiva",
+    "opc1": " Tiempo Completo",
+    "opc2": " Medio Tiempo y Hora Cátedra",
+    "opc3": "Titular"
+  },
+  {
+    "id": "55",
+    "factor": "3",
+    "titulo": "¿Cuáles son las categorías del escalafón docente definidas en la Universidad Santiago de Cali?",
+    "opcCorrecta": "Titular",
+    "opc1": " Asociado y Asistente",
+    "opc2": "Hora cátedra",
+    "opc3": " Senior y Tiempo Completo"
+  },
+  {
+    "id": "56",
+    "factor": "3",
+    "titulo": "Es aquella evaluación que recoge las percepciones de los estudiantes frente al desempeño docente del profesorado.",
+    "opcCorrecta": "Heteroevaluación",
+    "opc1": "Examen de aptitudes",
+    "opc2": "Coevaluación",
+    "opc3": "Prueba de conocimiento"
+  },
+  {
+    "id": "57",
+    "factor": "3",
+    "titulo": "¿Qué mecanismos institucionales se emplean para fomentar el desarrollo profesoral?",
+    "opcCorrecta": "Becas para estudios de posgrado",
+    "opc1": " comisiones de estudios",
+    "opc2": " período sabático y comisión remunerada.",
+    "opc3": "Cogobierno"
+  },
+  {
+    "id": "58",
+    "factor": "3",
+    "titulo": "El Sistema de Información dónde se encuentra el Plan de Trabajo de los profesores de Dedicación Exclusiva",
+    "opcCorrecta": " Tiempo Completo y Medio Tiempo se conoce como:",
+    "opc1": "SIPAC",
+    "opc2": "SINU",
+    "opc3": "PIPE"
+  },
+  {
+    "id": "59",
+    "factor": "3",
+    "titulo": "¿Cuáles son los ejes que orientan la oferta de cursos",
+    "opcCorrecta": " seminarios y capacitaciones desde el programa institucional de Rutas de Formación Docente?",
+    "opc1": "Docencia",
+    "opc2": " investigación y bilingüismo",
+    "opc3": "Extensión"
+  },
+  {
+    "id": "60",
+    "factor": "4",
+    "titulo": "Uno de los aspectos por medio de los cuales se evidencia la flexibilidad curricular es:",
+    "opcCorrecta": "Cursos internacionales",
+    "opc1": "Biblioteca",
+    "opc2": "Bienestar",
+    "opc3": "Financiación"
+  },
+  {
+    "id": "61",
+    "factor": "4",
+    "titulo": "¿Cuál fue el primer programa de pregrado en la USC? ",
+    "opcCorrecta": "Derecho",
+    "opc1": "Administración de Empresas ",
+    "opc2": "Licenciatura en Educación Infantil",
+    "opc3": "Medicina"
+  },
+  {
+    "id": "62",
+    "factor": "4",
+    "titulo": "¿Cuál fue el primer programa de Doctorado de la USC?",
+    "opcCorrecta": "Doctorado en Educación",
+    "opc1": "Doctorado en Derecho",
+    "opc2": "Doctorado en Ciencias Aplicadas",
+    "opc3": "Doctorado en Administración"
+  },
+  {
+    "id": "63",
+    "factor": "4",
+    "titulo": "¿Cuántos programas con acreditación nacional tiene la USC en la actualidad?",
+    "opcCorrecta": "10",
+    "opc1": "Ninguno",
+    "opc2": "8",
+    "opc3": "5"
+  },
+  {
+    "id": "64",
+    "factor": "4",
+    "titulo": "¿Cuántos programas de Doctorado tiene la USC?",
+    "opcCorrecta": "3",
+    "opc1": "Ninguno",
+    "opc2": "1",
+    "opc3": "2"
+  },
+  {
+    "id": "65",
+    "factor": "4",
+    "titulo": "¿Qué Facultad de la USC tiene el mayor número de programas con acreditación nacional?",
+    "opcCorrecta": "Ingeniería",
+    "opc1": "Comunicación y Publicidad",
+    "opc2": "Educación",
+    "opc3": "Ciencias Económicas y Empresariales"
+  },
+  {
+    "id": "66",
+    "factor": "4",
+    "titulo": "Es el único programa del país con esa denominación y está en la USC…",
+    "opcCorrecta": "Especialización en Aplicación y Tecnología de Drones",
+    "opc1": "Especialización en Sistemas Aeroespaciales",
+    "opc2": "Especialización en Sistemas de Información Geográfica",
+    "opc3": "Especialización en Gerencia Logística Integral "
+  },
+  {
+    "id": "67",
+    "factor": "4",
+    "titulo": "El modelo pedagógico institucional es:",
+    "opcCorrecta": "El constructivismo",
+    "opc1": "El expresionismo",
+    "opc2": "Aprendizaje basado en problemas",
+    "opc3": "No se tiene modelo pedagógico definido"
+  },
+  {
+    "id": "68",
+    "factor": "4",
+    "titulo": "La línea estratégica del PEDI que busca fortalecer los procesos académicos",
+    "opcCorrecta": " garantizando alta calidad",
+    "opc1": " pertinencia y relevancia social",
+    "opc2": " es...",
+    "opc3": "Línea 1. Academia con Calidad y Pertinencia"
+  },
+  {
+    "id": "69",
+    "factor": "4",
+    "titulo": "¿Cuáles son las áreas de conocimiento que evalúa la Universidad en sus estudiantes en el proceso de ingreso? ",
+    "opcCorrecta": "Matemáticas",
+    "opc1": " Inglés y comprensión lectora",
+    "opc2": "Inglés",
+    "opc3": " Francés e Italiano"
+  },
+  {
+    "id": "70",
+    "factor": "5",
+    "titulo": "La línea estratégica del PEDI que busca incrementar",
+    "opcCorrecta": " a partir de sus funciones misionales",
+    "opc1": " la presencia e impacto de la Universidad en el contexto regional",
+    "opc2": " nacional e internacional",
+    "opc3": " es…"
+  },
+  {
+    "id": "71",
+    "factor": "5",
+    "titulo": "¿Cuál es la Red de Universidades para la Innovación en que la Universidad Santiago de Cali tiene representación como coordinadora?",
+    "opcCorrecta": "RUPIV",
+    "opc1": "RUAV",
+    "opc2": "LA RÁBIDA",
+    "opc3": "AUIP"
+  },
+  {
+    "id": "72",
+    "factor": "5",
+    "titulo": "¿Qué es la OTRI en la Universidad Santiago de Cali?",
+    "opcCorrecta": "Oficina para la Transferencia de los Resultados de Investigación ",
+    "opc1": "Oficina de Traslados",
+    "opc2": " Resolución e Insumos",
+    "opc3": "Organismo de Trabajo y Relaciones Institucionales"
+  },
+  {
+    "id": "73",
+    "factor": "5",
+    "titulo": "¿Cuáles programas de la USC cuentan con acreditación internacional?",
+    "opcCorrecta": "Comunicación Social; Publicidad",
+    "opc1": "Ninguno",
+    "opc2": "Administración de Empresas ",
+    "opc3": "Licenciatura en Lenguas Extranjeras con énfasis en Inglés - Francés"
+  },
+  {
+    "id": "74",
+    "factor": "5",
+    "titulo": "¿Cuántas macroestrategias contempla la Línea Estratégica de ",
+    "opcCorrecta": " pertinencia e impacto institucional",
+    "opc1": "5",
+    "opc2": "4",
+    "opc3": "3"
+  },
+  {
+    "id": "75",
+    "factor": "6",
+    "titulo": "Lidera",
+    "opcCorrecta": " gestiona y coordina los procesos investigativos en la Universidad",
+    "opc1": "Director General de Investigaciones",
+    "opc2": "Coordinador del Centro de Investigaciones",
+    "opc3": "Líder del grupo de investigación"
+  },
+  {
+    "id": "76",
+    "factor": "6",
+    "titulo": "¿Por qué son importantes los semilleros de investigación?",
+    "opcCorrecta": "Fortalecen las competencias investigativas en estudiantes ",
+    "opc1": "Permiten conocer otros lugares de Colombia y el mundo",
+    "opc2": "Son una excusa para no asistir a clases",
+    "opc3": "En la Universidad no existen semilleros de investigación"
+  },
+  {
+    "id": "77",
+    "factor": "6",
+    "titulo": "La línea estratégica del PEDI que busca crear conocimiento e innovaciones a partir de la investigación",
+    "opcCorrecta": " es...",
+    "opc1": "Línea 2. Investigación e Innovación para la excelencia",
+    "opc2": "Línea 1. Academia con Calidad y Pertinencia",
+    "opc3": "Línea 3. Visibilidad"
+  },
+  {
+    "id": "78",
+    "factor": "6",
+    "titulo": "¿Cuántos grupos de investigación de la Universidad Santiago de Cali se encuentran clasificados en la última convocatoria de COLCIENCIAS?",
+    "opcCorrecta": "40",
+    "opc1": "30",
+    "opc2": "29",
+    "opc3": "18"
+  },
+  {
+    "id": "79",
+    "factor": "6",
+    "titulo": "Es una estrategia para estimular la investigación en los docentes de la Universidad Santiago de Cali:",
+    "opcCorrecta": "Incentivos por producción académica ",
+    "opc1": "Movilidad saliente",
+    "opc2": "Convenios interinstitucionales",
+    "opc3": "Publicación de artículos"
+  },
+  {
+    "id": "80",
+    "factor": "6",
+    "titulo": "El Reglamento General de Investigaciones de la Universidad Santiago de Cali",
+    "opcCorrecta": " se actualizó y aprobó por el Consejo Superior en el año 2019",
+    "opc1": "Verdadero ",
+    "opc2": "Falso ",
+    "opc3": ""
+  },
+  {
+    "id": "81",
+    "factor": "6",
+    "titulo": "¿En qué puesto quedó la USC en el Ranking Web de Universidades (webometrics) entre las Universidades de Cali?",
+    "opcCorrecta": "Tercer Puesto",
+    "opc1": "Quinto Puesto",
+    "opc2": "Décimo segundo puesto",
+    "opc3": "Ninguno"
+  },
+  {
+    "id": "82",
+    "factor": "6",
+    "titulo": "¿Cuántos Centros de Estudio e Investigación tiene la USC?",
+    "opcCorrecta": "7",
+    "opc1": "5",
+    "opc2": "6",
+    "opc3": "8"
+  },
+  {
+    "id": "83",
+    "factor": "6",
+    "titulo": "Cuál es el promedio general en calificaciones que debe tener un estudiante para acceder a una monitoría de investigación.",
+    "opcCorrecta": "Mayor o igual a 4.0",
+    "opc1": "Mayor a 4.5",
+    "opc2": "Mayor a 3.5",
+    "opc3": "Igual a 5.0"
+  },
+  {
+    "id": "84",
+    "factor": "7",
+    "titulo": "El Programa de Actualización al Egresado Santiaguino se conoce como…",
+    "opcCorrecta": "PAES",
+    "opc1": "SIAT",
+    "opc2": "PISA",
+    "opc3": "PIPE"
+  },
+  {
+    "id": "85",
+    "factor": "7",
+    "titulo": "Una de las estrategias de relación de la USC con los graduados es:",
+    "opcCorrecta": "Bolsa de Empleo ",
+    "opc1": "SIAT",
+    "opc2": "OTRI",
+    "opc3": "DGI"
+  },
+  {
+    "id": "86",
+    "factor": "7",
+    "titulo": "¿Cuántos miembros tiene el Consejo Superior por el estamento de egresados?",
+    "opcCorrecta": "8",
+    "opc1": "6",
+    "opc2": "7",
+    "opc3": "10"
+  },
+  {
+    "id": "87",
+    "factor": "7",
+    "titulo": "¿Grupo en el cual participa la Universidad Santiago de Cali y el Rector es el actual Vicepresidente?",
+    "opcCorrecta": "Grupo de Universidades Iberoamericanas La Rábida",
+    "opc1": "Grupo de la Universidad Internacional de Andalucía UNIA",
+    "opc2": "Grupo de la Universidad de Huelva",
+    "opc3": "Grupo de la Universidad de Córdoba"
+  },
+  {
+    "id": "88",
+    "factor": "7",
+    "titulo": "La Universidad Santiago de Cali otorga el 10% de descuento a los egresados y su grupo familiar primario para la realización de estudios de pregrado y posgrado",
+    "opcCorrecta": "Verdadero ",
+    "opc1": "Falso ",
+    "opc2": "",
+    "opc3": ""
+  },
+  {
+    "id": "89",
+    "factor": "7",
+    "titulo": "¿Cómo se llama el evento en donde la Universidad reconoce la labor en cada una de las funciones sustantivas de los miembros de la comunidad académica?",
+    "opcCorrecta": "Noche de los Mejores",
+    "opc1": "Reunión de bienvenida",
+    "opc2": "Fiesta de fin de año",
+    "opc3": "Lo mejor de lo mejor"
+  },
+  {
+    "id": "90",
+    "factor": "7",
+    "titulo": "Son áreas de Extensión en la Universidad",
+    "opcCorrecta": "Todas las anteriores",
+    "opc1": "Educación Continuada",
+    "opc2": " Servicios Profesionales y Proyectos",
+    "opc3": "Prácticas y Pasantías de Extensión"
+  },
+  {
+    "id": "91",
+    "factor": "7",
+    "titulo": "Es una herramienta del gobierno nacional para el seguimiento a graduados de las Instituciones de Educación Superior.",
+    "opcCorrecta": "Observatorio Laboral para la Educación OLE",
+    "opc1": "Observatorio Nacional de Graduados ",
+    "opc2": "Sistema Regional de Información de Educación Superior",
+    "opc3": "Sistema de Información de Calidad Nacional"
+  },
+  {
+    "id": "92",
+    "factor": "7",
+    "titulo": "Es el área de Extensión y Proyección Social que promueve programas de formación permanente",
+    "opcCorrecta": " con el objetivo de complementar",
+    "opc1": " actualizar",
+    "opc2": " profundizar y suplir conocimientos y formar aspectos académicos o laborales. ",
+    "opc3": "Educación continuada"
+  },
+  {
+    "id": "93",
+    "factor": "7",
+    "titulo": "Es el área de Extensión y Proyección Social que se encarga de promover la formulación",
+    "opcCorrecta": " implementación",
+    "opc1": " gestión",
+    "opc2": " administración y ejecución de proyectos de inversión y servicios de asesoría",
+    "opc3": " consultoría"
+  },
+  {
+    "id": "94",
+    "factor": "7",
+    "titulo": "Es el área de Extensión y Proyección Social que sirve de apoyo tanto a los programas curriculares de la universidad como a su entorno",
+    "opcCorrecta": " brindando a los estudiantes la orientación para la implementación de sus conocimientos y a los empresarios y comunidad en general",
+    "opc1": " la capacitación y orientación para aprovechamiento de las prácticas y pasantías y los servicios de docencia asistenciales.",
+    "opc2": "Servicios profesionales y proyectos",
+    "opc3": "Educación para el trabajo y el desarrollo humano"
+  },
+  {
+    "id": "95",
+    "factor": "7",
+    "titulo": "Es el área de Extensión y Proyección Social desde la cual la USC se proyecta a la sociedad por medio de actividades de gestión social y comunitaria con programas de carácter comunitario",
+    "opcCorrecta": " social",
+    "opc1": " educativo",
+    "opc2": " gestión cultural",
+    "opc3": " deportivo"
+  },
+  {
+    "id": "96",
+    "factor": "7",
+    "titulo": "Es el área de Extensión y Proyección Social que ofrece mecanismos alternativos de solución de conflictos para dirimir las controversias con la intervención de un tercero imparcial",
+    "opcCorrecta": " solucionándolas de manera amistosa",
+    "opc1": " expedita o sencilla.",
+    "opc2": "Conciliación y arbitraje",
+    "opc3": "Responsabilidad social"
+  },
+  {
+    "id": "97",
+    "factor": "7",
+    "titulo": "Es el área de Extensión y Proyección Social que promueve el diseño y oferta de programas de educación para el trabajo",
+    "opcCorrecta": " acorde con las políticas y normas expedidas para estos casos y buscando sinergias con la educación superior.",
+    "opc1": "Educación para el trabajo y el desarrollo humano",
+    "opc2": "Responsabilidad social",
+    "opc3": "Educación continuada"
+  },
+  {
+    "id": "98",
+    "factor": "8",
+    "titulo": "¿Cuáles son los momentos del modelo de autoevaluación de la USC? ",
+    "opcCorrecta": "Percepción y Opinión de Públicos; Existencia y Valoración de Evidencias; Juicio Experto",
+    "opc1": "Encuestas; Valoración de Evidencias",
+    "opc2": "Encuestas; Valoración de Evidencias; Fichas de Reflexión",
+    "opc3": "Valoración de Evidencias; Fichas de Reflexión; Juicio Experto"
+  },
+  {
+    "id": "99",
+    "factor": "8",
+    "titulo": "El proceso de socialización de resultados de la Autoevaluación Institucional",
+    "opcCorrecta": " está dirigido a…",
+    "opc1": "Toda la Comunidad Universitaria",
+    "opc2": "Profesores",
+    "opc3": "Estudiantes"
+  },
+  {
+    "id": "100",
+    "factor": "8",
+    "titulo": "Es el escenario en donde se debate",
+    "opcCorrecta": " se toman decisiones y se focalizan estrategias en torno al proceso de acreditación institucional y de programas en la Universidad Santiago de Cali:",
+    "opc1": "Comité Institucional de Autoevaluación y Calidad",
+    "opc2": "Comité de Extensión",
+    "opc3": "Consejo Nacional de Acreditación"
+  },
+  {
+    "id": "101",
+    "factor": "8",
+    "titulo": "El Juicio Experto realizado en el proceso de autoevaluación institucional con fines de acreditación fue realizado por:",
+    "opcCorrecta": "Pares Externos",
+    "opc1": "Comité Institucional de Autoevaluación y Calidad",
+    "opc2": "Pares internos amigos",
+    "opc3": "Consejo Superior"
+  },
+  {
+    "id": "102",
+    "factor": "8",
+    "titulo": "El instrumento de percepción y opinión de públicos aplicado en el proceso de autoevaluación institucional con fines de acreditación se realizó mediante:",
+    "opcCorrecta": "Encuestas",
+    "opc1": "Simulacros",
+    "opc2": "Reuniones",
+    "opc3": "Matriz DOFA"
+  },
+  {
+    "id": "103",
+    "factor": "8",
+    "titulo": "¿Qué es el SIPAC?",
+    "opcCorrecta": "Sistema de Información para el Aseguramiento de la Calidad ",
+    "opc1": "Sistema de Información para Administrar con Calidad",
+    "opc2": "Sistema Integrado Público de Acceso a la Calidad",
+    "opc3": "Sistema de Información de Calidad Institucional"
+  },
+  {
+    "id": "104",
+    "factor": "8",
+    "titulo": "La Universidad Santiago de Cali cuenta actualmente con 51 procesos certificados",
+    "opcCorrecta": "Verdadero ",
+    "opc1": "Falso ",
+    "opc2": "",
+    "opc3": ""
+  },
+  {
+    "id": "105",
+    "factor": "8",
+    "titulo": "Es el Sistema de Información a través del cual se administra información documentada y se lleva el seguimiento y control a los procesos mediante indicadores y planes",
+    "opcCorrecta": " entre otros. ",
+    "opc1": "Daruma",
+    "opc2": "SIPAC",
+    "opc3": "SINU"
+  },
+  {
+    "id": "106",
+    "factor": "8",
+    "titulo": "En qué documento institucional se plantea como una macroestrategia ",
+    "opcCorrecta": "Plan Estratégico de Desarrollo Institucional 2014-2024 ",
+    "opc1": "Proyecto Educativo Institucional",
+    "opc2": "Modelo Pedagógico",
+    "opc3": "Proyecto Educativo de Programas"
+  },
+  {
+    "id": "107",
+    "factor": "9",
+    "titulo": "El Comité orientado a promover las relaciones cordiales y el ambiente armónico de trabajo de la comunidad Santiaguina es:",
+    "opcCorrecta": "Comité de Convivencia",
+    "opc1": "Comité Ambiental",
+    "opc2": "Comité Institucional de Autoevaluación y Calidad",
+    "opc3": "Comité Central de Currículo"
+  },
+  {
+    "id": "108",
+    "factor": "9",
+    "titulo": "¿Cuál es la característica adicional incorporada por la USC en su modelo de autoevaluación institucional?",
+    "opcCorrecta": "Universidad comprometida con la protección ambiental",
+    "opc1": "Universidad Saludable",
+    "opc2": "Universidad Incluyente",
+    "opc3": "Universidad Libre de Humo"
+  },
+  {
+    "id": "109",
+    "factor": "9",
+    "titulo": "Es el responsable del manejo de la política y gestión de Bienestar Universitario:",
+    "opcCorrecta": "Director de Bienestar Universitario",
+    "opc1": "Coordinador de Deportes",
+    "opc2": "Coordinador de Arte y Cultura",
+    "opc3": "Coordinador de Bienestar Universitario"
+  },
+  {
+    "id": "110",
+    "factor": "9",
+    "titulo": "Son áreas del bienestar universitario en la Universidad Santiago de Cali:",
+    "opcCorrecta": "Todas las anteriores",
+    "opc1": "Salud",
+    "opc2": " Arte y Cultura",
+    "opc3": "Promoción y Desarrollo Humano"
+  },
+  {
+    "id": "111",
+    "factor": "9",
+    "titulo": "¿Quiénes pueden acceder a los servicios de bienestar universitario desde sus diferentes áreas (Salud; Arte y Cultura; Promoción y Desarrollo Humano; Deporte y Recreación)?",
+    "opcCorrecta": "Todos las anteriores",
+    "opc1": "Estudiantes y egresados",
+    "opc2": "Docentes",
+    "opc3": "Empleados"
+  },
+  {
+    "id": "112",
+    "factor": "9",
+    "titulo": "¿En qué puesto quedó ubicada la Universidad Santiago de Cali en el ranking greenmetric en el año 2019?",
+    "opcCorrecta": "225",
+    "opc1": "275",
+    "opc2": "295",
+    "opc3": "300"
+  },
+  {
+    "id": "113",
+    "factor": "9",
+    "titulo": "¿Cuántos paneles solares tiene la USC?",
+    "opcCorrecta": "824",
+    "opc1": "150",
+    "opc2": "563",
+    "opc3": "No hay paneles solares"
+  },
+  {
+    "id": "114",
+    "factor": "9",
+    "titulo": "¿Cuál es la capacidad de almacenamiento del Tanque reservorio de agua lluvia de la USC?",
+    "opcCorrecta": "611",
+    "opc1": "5 metros cúbicos",
+    "opc2": "127 metros cúbicos",
+    "opc3": "800 metros cúbicos"
+  },
+  {
+    "id": "115",
+    "factor": "9",
+    "titulo": "¿Cómo se denomina la competencia planteada en los nuevos lineamientos curriculares",
+    "opcCorrecta": " que busca formar en los estudiantes una responsabilidad frente a temas ambientales y una cultura de prácticas que contribuyan al desarrollo sostenible?",
+    "opc1": "Competencia Ambiental",
+    "opc2": "Competencia ciudadana",
+    "opc3": "Competencia de desarrollo sostenible"
+  },
+  {
+    "id": "116",
+    "factor": "9",
+    "titulo": "Es el área encargada de promover hábitos saludables",
+    "opcCorrecta": " proteger la seguridad y la salud de la comunidad universitaria y la protección del medio ambiente con el propósito de anticipar",
+    "opc1": " reconocer",
+    "opc2": " evaluar y controlar los peligros que puedan afectar la seguridad y la salud en el trabajo:",
+    "opc3": "Área de Seguridad y Salud en el Trabajo"
+  },
+  {
+    "id": "117",
+    "factor": "10",
+    "titulo": "Es la primera autoridad ejecutiva de la USC y le corresponde la dirección y orientación de la política universitaria:",
+    "opcCorrecta": "Rector",
+    "opc1": "Consejo Superior ",
+    "opc2": "Presidente del Consejo Superior",
+    "opc3": "Consejo Académico"
+  },
+  {
+    "id": "118",
+    "factor": "10",
+    "titulo": "Es el encargado de velar por el cumplimiento de la Constitución Nacional",
+    "opcCorrecta": " la Ley de la Educación Superior",
+    "opc1": " el Estatuto",
+    "opc2": " los reglamentos y las decisiones del Consejo Superior Universitario:",
+    "opc3": "Presidente del Consejo Superior"
+  },
+  {
+    "id": "119",
+    "factor": "10",
+    "titulo": "Tiene a su cargo la dirección de los asuntos académicos en la Universidad; orienta la política de docencia",
+    "opcCorrecta": " investigación",
+    "opc1": " extensión y proyección social; vela por el funcionamiento y cumplimiento de los reglamentos Docente y Estudiantil:",
+    "opc2": "Vicerrector Académico",
+    "opc3": "Rector"
+  },
+  {
+    "id": "120",
+    "factor": "10",
+    "titulo": "Es la autoridad académica y administrativa de la facultad",
+    "opcCorrecta": " conforme a lo dispuesto en el Estatuto General y en los demás reglamentos internos de la Universidad:",
+    "opc1": "Decano",
+    "opc2": "Director de Programa",
+    "opc3": "Secretario Académico"
+  },
+  {
+    "id": "121",
+    "factor": "10",
+    "titulo": "Los Consejos de Facultad son presididos por:",
+    "opcCorrecta": "Decano",
+    "opc1": "Rector",
+    "opc2": "Vicerrector Académico",
+    "opc3": "Vicerrectora Administrativa"
+  },
+  {
+    "id": "122",
+    "factor": "10",
+    "titulo": "Son estrategias de información y comunicación en la USC:",
+    "opcCorrecta": "Todas las anteriores",
+    "opc1": "Boletines",
+    "opc2": " la gaceta Institucional y página web",
+    "opc3": "Canal de YouTube"
+  },
+  {
+    "id": "123",
+    "factor": "10",
+    "titulo": "¿Cuántos miembros tiene el Consejo Superior por cada estamento (estudiantes",
+    "opcCorrecta": " profesores y egresados)?",
+    "opc1": "8",
+    "opc2": "4",
+    "opc3": "6"
+  },
+  {
+    "id": "124",
+    "factor": "10",
+    "titulo": "La línea estratégica del PEDI que busca implementar un modelo de gestión administrativa y financiera eficiente y moderna al servicio de las funciones misionales de la Universidad",
+    "opcCorrecta": " es…",
+    "opc1": "Línea 4. Gestión para la excelencia institucional",
+    "opc2": "Línea 1. Academia con Calidad y Pertinencia",
+    "opc3": "Línea 2. Investigación e Innovación para la excelencia"
+  },
+  {
+    "id": "125",
+    "factor": "10",
+    "titulo": "El nombre del actual Rector de la USC es…",
+    "opcCorrecta": "Carlos Andrés Pérez Galindo",
+    "opc1": "Santiago Cadena Copete",
+    "opc2": "Álvaro Pío Valencia",
+    "opc3": "Guillermo Coll Salazar"
+  },
+  {
+    "id": "126",
+    "factor": "10",
+    "titulo": "El nombre del actual Vicerrector Académico de la USC es…",
+    "opcCorrecta": "Jorge Antonio Silva Leal",
+    "opc1": "Estanislao Zuleta",
+    "opc2": "Santiago Cadena Copete",
+    "opc3": "Pedro Elías Serrano"
+  },
+  {
+    "id": "127",
+    "factor": "10",
+    "titulo": "El nombre de la actual Vicerrectora Administrativa de la USC es…",
+    "opcCorrecta": "Zonia Velasco Ramírez",
+    "opc1": "María del Carmen Salinas",
+    "opc2": "Teresa Gutiérrez",
+    "opc3": "Ana María Medina "
+  },
+  {
+    "id": "128",
+    "factor": "10",
+    "titulo": "¿Cuál es la página web de la Universidad?",
+    "opcCorrecta": "www.usc.edu.co",
+    "opc1": "www.usantiago.edu.co",
+    "opc2": "www.usaca.edu.co",
+    "opc3": "www.lasantiago.edu.co"
+  },
+  {
+    "id": "129",
+    "factor": "11",
+    "titulo": "La USC tiene laboratorios enfocados a…",
+    "opcCorrecta": "Investigación",
+    "opc1": " Formación y prestación de servicio a externos",
+    "opc2": "Formación",
+    "opc3": "Investigación "
+  },
+  {
+    "id": "130",
+    "factor": "11",
+    "titulo": "¿Cómo se llama la plataforma institucional donde estudiantes y profesores realizan cursos B- learning y E-learning tanto en pregrado como en posgrado?",
+    "opcCorrecta": "Moodle",
+    "opc1": "Chamilo",
+    "opc2": "Zoom",
+    "opc3": "Class room"
+  },
+  {
+    "id": "131",
+    "factor": "11",
+    "titulo": "¿Cuál es el nombre de la Biblioteca de la USC en Cali?",
+    "opcCorrecta": "Santiago Cadena Copete",
+    "opc1": "Guillermo Coll Salazar ",
+    "opc2": "Estanislao Zuleta",
+    "opc3": "Jafet Morales"
+  },
+  {
+    "id": "132",
+    "factor": "11",
+    "titulo": "¿En qué bloque están concentrados la mayoría de laboratorios de la USC?",
+    "opcCorrecta": "Bloque 4",
+    "opc1": "Bloque 3",
+    "opc2": "Bloque 1",
+    "opc3": "La Universidad no tiene Laboratorios"
+  },
+  {
+    "id": "133",
+    "factor": "11",
+    "titulo": "¿Cuántos Ascensores tiene la USC en funcionamiento al servicio de la Comunidad actualmente?",
+    "opcCorrecta": "5",
+    "opc1": "1",
+    "opc2": "6",
+    "opc3": "No tiene"
+  },
+  {
+    "id": "134",
+    "factor": "11",
+    "titulo": "¿En qué bloque están concentrados los servicios de salud de la USC?",
+    "opcCorrecta": "Bloque 5",
+    "opc1": "Bloque 4",
+    "opc2": "Bloque 1",
+    "opc3": "La Universidad no tiene servicios de salud."
+  },
+  {
+    "id": "135",
+    "factor": "11",
+    "titulo": "¿Cuántos Sabios hay en la Plazoleta Central de la USC?",
+    "opcCorrecta": "6 Sabios",
+    "opc1": "4 Sabios",
+    "opc2": "8 Sabios",
+    "opc3": "No hay Sabios"
+  },
+  {
+    "id": "136",
+    "factor": "11",
+    "titulo": "¿Cuál es el área total de la USC en su campus Pampalinda?",
+    "opcCorrecta": "90.657 metros cuadrados",
+    "opc1": "9.000 metros cuadrados",
+    "opc2": "57.354 metros cuadrados",
+    "opc3": "11.200 metros cuadrados"
+  },
+  {
+    "id": "137",
+    "factor": "12",
+    "titulo": "El control y fiscalización de la Administración en la Universidad Santiago de Cali están a cargo de…",
+    "opcCorrecta": "Revisoría Fiscal",
+    "opc1": "Manejo contable",
+    "opc2": "Revisión de nómina",
+    "opc3": "Departamento de Auditoría Interna"
+  },
+  {
+    "id": "138",
+    "factor": "12",
+    "titulo": "¿Cuál es la dependencia que se encarga de orientar a las diferentes Unidades de la Universidad en la preparación de la proyección presupuestal?",
+    "opcCorrecta": "Dirección Financiera",
+    "opc1": "Contabilidad y finanzas",
+    "opc2": "Vicerrectoría Administrativa",
+    "opc3": "Crédito y Cartera"
+  },
+  {
+    "id": "139",
+    "factor": "12",
+    "titulo": "El Subsistema del Sistema de Gestión de Calidad donde se encuentra la Dirección Financiera de la Universidad es:",
+    "opcCorrecta": "Subsistema Financiero ",
+    "opc1": "Subsistema Administrativo",
+    "opc2": "Subsistema Estratégico",
+    "opc3": "Subsistema Misional"
+  },
+  {
+    "id": "140",
+    "factor": "12",
+    "titulo": "El Sistema de Información que garantiza el seguimiento y control a la disponibilidad de recursos para cada uno de los centros de costos de las áreas de la institución se conoce como",
+    "opcCorrecta": "ICEBERG",
+    "opc1": "SINU",
+    "opc2": "SIPAC",
+    "opc3": "DARUMA"
+  },
+  {
+    "id": "141",
+    "factor": "12",
+    "titulo": "¿A qué hace referencia el modelo Caja Base Cero en la Universidad?",
+    "opcCorrecta": "Proyectar",
+    "opc1": " para un periodo",
+    "opc2": " la generación de los ingresos que efectivamente se espera recibir y se programa la utilización total de los mismos",
+    "opc3": " bien sea para la operación o para inversión."
+  },
+  {
+    "id": "142",
+    "factor": "12",
+    "titulo": "Es un rubro de recaudo que está compuesto por las matrículas y otros ingresos académicos derivados del contrato de educación.",
+    "opcCorrecta": "Recaudos Operacionales",
+    "opc1": "Recaudos no operacionales",
+    "opc2": "Recaudos de capital",
+    "opc3": "Recaudos financieros"
+  }
+]
