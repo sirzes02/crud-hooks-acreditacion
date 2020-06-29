@@ -22,6 +22,7 @@ const App = () => {
     <div className="App">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container">
+          {/*eslint-disable-next-line*/}
           <a className="navbar-brand">
             Aplicación para la acreditación de alta calidad
           </a>

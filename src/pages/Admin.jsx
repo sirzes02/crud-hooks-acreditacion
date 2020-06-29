@@ -3,6 +3,7 @@ import { useAuth } from "../context/Auth";
 import Swal from "sweetalert2";
 import Preguntas from "../components/Preguntas";
 import Usuarios from "../components/Usuarios";
+import Informacion from "../components/Informacion";
 
 function Admin() {
   // Declaracion de variables y estados
@@ -88,7 +89,7 @@ function Admin() {
           role="tabpanel"
           aria-labelledby="contact-tab"
         >
-          Información
+          <Informacion />
         </div>
       </div>
 
